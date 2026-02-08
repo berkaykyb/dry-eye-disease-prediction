@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+
+# Build and cache
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local env files
+.env
+.env.*
