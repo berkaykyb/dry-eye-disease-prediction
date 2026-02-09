@@ -57,7 +57,7 @@ The dataset contains **25 features** including:
 We tested **18 classification algorithms**:
 
 **Ensemble Methods:**
-- Random Forest Classifier
+- Random Forest Classifier ⭐
 - Gradient Boosting Classifier ⭐
 - AdaBoost Classifier
 - Bagging Classifier
