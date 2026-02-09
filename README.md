@@ -3,9 +3,9 @@
 A comprehensive machine learning project that predicts dry eye disease using 18 different classification algorithms. This project analyzes 25 health and lifestyle features to determine the risk of developing dry eye disease.
 
 ## Team Members
-- **152120211097** - Çağrı Elagöz
-- **152120221072** - Berkay Kayabaşı  
-- **152120221085** - Samet Toka
+- Çağrı Elagöz
+- Berkay Kayabaşı  
+- Samet Toka
 
 ## Project Overview
 
